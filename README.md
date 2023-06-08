@@ -1,17 +1,29 @@
 # stage-48h
 
-# Description
+Projet de _Raffanel_ Guilhem
+
+I. [Description](#i-description-🔎)
+
+II. [Notice](#ii-notice-📜)
+
+III. [Réalisation](#iii-réalisation-💻)
+
+IV. [Amélioration](#iv-amélioration-➕)
+
+
+## I. Description: 🔎
+
 Mon projet a été de réaliser un boitier permettant a l'aide d'un badge RFID l'ouverture d'une porte.
 
 Pour ce projet je me suis servi de trois outils principaux tel qu'un capteur RFID, suivi d'un afficheur lcd et pour finir d'une carte arduino uno.
 
-# Notice
+## II. Notice: 📜
 
 Pour fonctionner ce boitier on a besoin d'un badge RFID afin de le scanner et si le badge est détecter comme valide la porte s'ouvrira sinon au bout de 3 éssais le badge n'est pas bon une alerte se lance
 
 Pour la réparation ou l'installation c'est très simple il faut retirer la plaque arrière ainsi que tirer la plaque supérieur 
 
-# Réalisation
+## III. Réalisation: 💻
 
 https://a360.co/42tZnlB
 
@@ -129,7 +141,7 @@ byte GetAccesState(byte *CodeAcces,byte *NewCode)
 }
 ```
 
-# Amélioration
+## IV. Amélioration: ➕
 
 Comme amélioration j'aurai pu ajouter:
 

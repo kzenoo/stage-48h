@@ -31,7 +31,7 @@ Lien vers le boitier : https://a360.co/42tZnlB
 
 [code du boitier](/Code.ino)
 
-[le schéma électrique du tout](/shema%20elec%20rfid.kicad_sch)
+[le schéma électrique du tout](/shema%20elec%20rfid.kicad_pro)
 
 ## IV. Amélioration: ➕
 

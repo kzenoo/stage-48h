@@ -29,9 +29,9 @@ Pour la réparation et/ou l'installation, il faut retirer la plaque arrière pui
 
 Lien vers le boitier : https://a360.co/42tZnlB
 
-[Code du boitier](/Code/Code.ino)
+[Code du boitier](/Boitier/Code/Code.ino)
 
-[Le schéma électrique](/Sch%C3%A9ma%20electrique/shema%20elec%20rfid.kicad_sch)
+[Le schéma électrique](/Boitier/Sch%C3%A9ma%20electrique/shema%20elec%20rfid.kicad_sch)
 
 ## IV. Amélioration: ➕
 
